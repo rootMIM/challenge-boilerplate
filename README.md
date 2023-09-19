@@ -25,20 +25,22 @@ FR: Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, 
 
 ## List of the flag(s) to be found
 
+```json
 {
     "en": {
-        "title": -,
-        "description": -,
-        "answer": -,
-        "bonus": -,
+        "title": "...",
+        "description": "...",
+        "answer": "...",
+        "bonus": 10,
     }, 
     "fr": {
-        "title": -,
-        "description": -,
-        "answer": -,
-        "bonus": -,
+        "title": "...",
+        "description": "...",
+        "answer": "...",
+        "bonus": 10,
     }, 
 }
+```
 
 ...
 
