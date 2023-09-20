@@ -1,5 +1,16 @@
 # Challenge title
 
+## Challenge category (select one)
+
+- [ ] reverse
+- [ ] ctf
+- [ ] system
+- [ ] cryptanalysis
+- [ ] forensic
+- [ ] network
+- [ ] programming
+- [ ] web
+
 ## Short description that will be displayed on our website
 
 EN: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
